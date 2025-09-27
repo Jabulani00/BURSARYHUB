@@ -394,3 +394,4 @@ For support, email support@bursaryhub.com or join our Slack channel.
 ---
 
 **Made with ❤️ for students seeking educational opportunities**"# BURSARYHUB" 
+"# BURSARYHUB" 
